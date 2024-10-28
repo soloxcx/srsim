@@ -15,7 +15,7 @@ const (
 	E2Hover    key.Modifier = "bronya-e2-hover"
 	E2Buff     key.Modifier = "bronya-e2-buff"
 	E4Cooldown key.Modifier = "bronya-e4-buff"
-	Insert                  = "bronya-follow-up"
+	Insert                  = "bronya-followup"
 )
 
 func init() {

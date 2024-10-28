@@ -10,7 +10,7 @@ import (
 
 const (
 	SkillAttack    key.Attack   = "seele-skill"
-	SkillSpeedBuff key.Modifier = "seele-skill-speed-up"
+	SkillSpeedBuff key.Modifier = "seele-skill-speed-buff"
 )
 
 // Increases Seele's SPD by 25% for 2 turn(s)

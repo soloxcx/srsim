@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	TalentBuff key.Modifier = "sushang_talent_buff"
+	TalentBuff key.Modifier = "sushang-talent-buff"
 )
 
 func init() {

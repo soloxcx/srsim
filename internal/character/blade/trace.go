@@ -10,10 +10,10 @@ import (
 )
 
 const (
-	A2Check = "blade-A2-check"
-	A2Buff  = "blade-A2-buff"
-	A4      = "blade-A4"
-	A6      = "blade-A6"
+	A2Check = "blade-a2-check"
+	A2Buff  = "blade-a2-buff"
+	A4      = "blade-a4"
+	A6      = "blade-a6"
 )
 
 func init() {

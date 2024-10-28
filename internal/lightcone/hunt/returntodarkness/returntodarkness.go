@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	ReturntoDarkness key.Modifier = "return_to_darkness"
+	ReturntoDarkness key.Modifier = "return-to-darkness"
 )
 
 type State struct {

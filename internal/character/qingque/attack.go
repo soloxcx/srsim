@@ -9,7 +9,7 @@ import (
 const (
 	NormalBasic    = "qingque-normal-basic"
 	NormalEnhanced = "qingque-normal-enhanced"
-	Insert         = "qingque-follow-up"
+	Insert         = "qingque-followup"
 	E6             = "qingque-e6"
 )
 
